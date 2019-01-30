@@ -7,7 +7,6 @@ __pycache__/
 # C extensions
 *.so
 .idea
-.env
 celerybeat-schedule
 celerybeat.pid
 node_modules/
